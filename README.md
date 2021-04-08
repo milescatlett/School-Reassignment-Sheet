@@ -5,4 +5,5 @@ I worked on the creation of a digital system for managing school reassignment fo
 
 Principals and data managers in the district utilize the script. I collaborated with the district digital teaching and learning specialist. 
 
+The video demonstrates how the spreadsheet moves rows from one spreadsheet to another, and how error messages work.
 https://youtu.be/hCFWZ5u0Nb0
